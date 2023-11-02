@@ -1,0 +1,50 @@
+lavaplatos : lave-vaisselle
+lavadora : lave-linge
+mesa : table
+tarjeta postal : carte postal
+estatua : statue
+microondas : four à micro-ondes
+armario : armoire
+ropero : armoire, penderie
+guardarropa : garde-robe
+extremidad : extremité
+hallazgo : découverte
+complejo : complexe, compliqué
+forense : médico-légal
+rociar : asperger, vaporiser, pulvériser
+sustancia : substance
+pesquisa : enquête
+arrendar : louer
+abanico : éventail
+supermercado : supermarché
+cotejo : confrontation, comparaison
+certeza : certitude
+sospechoso : suspect
+descartar : écarter
+venganza : vengeance
+empresario : chef d'entreprise, entrepreneur
+deuda : dette
+plantear : poser, exposer, envisager
+esclarecer : élucider, clarifier
+cerradura : serrure
+ingresar : entrer dans, intégrer
+apuntar : pointer, indiquer, montrer
+nave industrial : hangar, entrepôt
+arrojar : jeter, lancer
+cadaver : cadabre
+maleta : valise
+guante : gant
+colgante : pendentif
+lujo : luxe
+lujo : abondance, excès
+enseguida : tout de suite
+coartada : alibi
+rastrear : suivre à la trace
+recabar : récolter, récupérer
+reciclar : recycler
+deceso : décès
+averiguacion : enquête, recherche
+ambito : domaine, secteur
+ubicar : placer, mettre
+ubicarse : se trouver, se situer
+sentir : sentir, ressentir

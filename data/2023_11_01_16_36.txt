@@ -1,0 +1,50 @@
+convivencia : cohabitation
+rentar : louer
+ira : colère, fureur
+gestacion : gestation, grossesse
+alegar : alléguer, prétexter
+sostener : soutenir
+altercado : altercation, dispute
+destrozar : détruire
+alboroto : tapage, vacarme, chahut
+burbuja : bulle
+amanar : truquer
+desmoronar : s'écrouler
+ahogar : étouffer, noyer
+proveedor : fournisseur
+galpon : maison de plain-pied, hangar
+socorro : secours
+socorrista : secouriste, sauveteur
+dantesco : dantesque
+hallar : trouver, retrouver
+torso : torse
+plato : assiette
+plata : argent
+fregado : évier
+lavadero : évier
+grifo : robinet
+tirejas : ciseaux
+escoplo : burin
+esponja : éponge
+fregar : laver
+florero : vase
+jarron : vase
+banera : baignoire
+cama : lit
+pêche : melocoton
+platano : banane
+manzana : pomme
+albaricoque : abricot
+abrigo : manteau
+chaqueta : veste
+pantalon : pantalon
+calcetin : chaussette
+zapatilla : chausson
+pantufla : pantoufle
+zapato : chaussure
+interuptor : interrupteur
+bano : salle de bain, toilette
+machacar : écraser
+alfombra : tapis
+esterilla : tapis, paillasson
+cumbre : sommet

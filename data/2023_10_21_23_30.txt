@@ -1,0 +1,50 @@
+cartel : affiche
+cartel : cartel
+inquilino : locataire
+admitir : admettre
+resaca : gueule de bois
+enchufar : brancher
+cargar : charger
+debajo : dessous, en dessous
+celda : cellule
+payaso : clown, guignol, pitre
+acabar : finir, terminer
+coger : prendre
+coger : attraper, arrêter
+apretar : serrer, presser
+gatillo : gachette
+juicio : procès
+milagro : miracle
+entorno : environnement
+sobredosis : overdose
+desgracia : malheur
+follar : baiser, niquer
+luchar : lutter, combattre
+caminito : sentier, petit chemin
+desgraciado : malheureux
+enterrar : enterrer
+papaito : petit papa
+aro : anneau
+bautizo : baptême
+mosca : mouche
+bando : camp, côté
+mejilla : joue
+explotacion : exploitation
+parto : accouchement
+sed : soif
+renegar : renier, désavouer
+pandillero : membre d'un gang, voyou
+cachondo : excité
+maromo : amant, copain
+hogar : intérieur, foyer
+traidor : traître
+traicionero : traître
+cabana : cabane, hutte
+alejar : éloigner
+largarse : se tirer, se barrer
+mantequilla : beurre
+transitorio : transitoire
+refrescar : rafraîchir
+mosquita muerta : sainte-nitouche
+mosquito : moustique
+cesta : panier
